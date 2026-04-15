@@ -56,7 +56,7 @@ colors = {
     # for drawing lines in graph
     'grey': (128, 128, 128),
     # signifies goal node
-    'turquoise': (64, 224, 208) 
+    'turquoise': (64, 224, 2208) 
 }
 
 
